@@ -74,16 +74,19 @@ Node.js , React.js , Express.js , Socket.io
 
 
 # Screenshots :
-![WhatsApp Image 2021-07-13 at 6 09 11 PM](https://user-images.githubusercontent.com/70344625/125455924-4895d322-a782-49af-9bf8-a65f218a268e.jpeg)
-Home Page
 
+# Home Page
+![WhatsApp Image 2021-07-13 at 6 09 11 PM](https://user-images.githubusercontent.com/70344625/125455924-4895d322-a782-49af-9bf8-a65f218a268e.jpeg)
+
+# setting the username
 ![WhatsApp Image 2021-07-13 at 6 09 11 PM (1)](https://user-images.githubusercontent.com/70344625/125456034-6415c9a0-ad70-422b-9601-2738fc99cdb7.jpeg)
 
+# Before and after the meet
 ![WhatsApp Image 2021-07-13 at 6 09 11 PM (1)](https://user-images.githubusercontent.com/70344625/125456096-32c23c3c-463e-4074-a519-bfe0aff49c37.jpeg)
-Before and after the meet
 
+# Video conference
 ![WhatsApp Image 2021-07-13 at 6 09 11 PM (3)](https://user-images.githubusercontent.com/70344625/125456166-96c53973-7400-4f51-baa4-6ad1335282c4.jpeg)
-Video conference
 
+# Chat room
 ![WhatsApp Image 2021-07-13 at 6 09 11 PM (4)](https://user-images.githubusercontent.com/70344625/125456366-36680575-1b65-4ffa-93d4-f699a9fdbdf0.jpeg)
-Chat room
+
