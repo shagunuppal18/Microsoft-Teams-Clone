@@ -1,8 +1,5 @@
 # Microsoft Team Clone
 
-# Agile Mthodology 
-https://www.canva.com/design/DAEkBWXw4BQ/G-zdjJgYr08On-_e7CCiJA/view?utm_content=DAEkBWXw4BQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
-
 # Technologies Used:
 Node.js , React.js , Express.js , Socket.io
 
@@ -74,6 +71,40 @@ Node.js , React.js , Express.js , Socket.io
 1. Get port from environment and store in Express.
 2. Create HTTP server.
 3. Listen on provided port, on all network interfaces.
+
+# Agile Methodology 
+WEEK 1 :
+1. Frontend:
+	i) Setup codebase
+	ii) Add Home Page with create/join meeting button
+2. Backend:
+	i) Setup codebase
+  
+WEEK 2 :
+1. Frontend:
+ i)Add Meeting Page
+ ii)Add socket client - to stream video on UI
+ iii)Add button to video on/off
+ iv)Add button to audio on/off
+ v)Join meeting url option
+ vi)Add Chat UI
+ vii)Call end option
+ viii)Copy link feature
+  ix) Add button to present screen
+  
+WEEK 3 :
+1. Backend:
+	i) Socket Implementation for chat, video call
+2. Frontend
+   I) Integration of the socket APIs 
+   ii) UI enhancement
+ 
+WEEK 4 :
+1. Backend:
+	i) all the fixes done
+2. Frontend
+   i) Added Pre and Post chat feature
+   ii) UI enhancement
 
 
 # Screenshots :
