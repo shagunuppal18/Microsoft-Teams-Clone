@@ -1,9 +1,9 @@
 # Microsoft Team Clone
 
-#Technologies Used:
+# Technologies Used:
 Node.js , React.js , Express.js , Socket.io
 
-#Features added :
+# Features added :
 1. Home Page with create/join the room
 2. Create a room (set a username)
 3. Copying the link to clipboard 
@@ -30,14 +30,14 @@ Node.js , React.js , Express.js , Socket.io
 - Run command `npm install` - to install the dependencies
 - Run command `npm run start` - to start the project
 
-#Details about the code
+# Details about the code
 
-#-client -> src -> pages -> home.js
+# client -> src -> pages -> home.js
 1.Function to handle the input button change event
 2.Function to handle the button click event
 3.UI of main home page
 
-#-client -> src -> pages -> video.js
+# client -> src -> pages -> video.js
 1.Server URL
 2.Configuration of the RTCPeerConnection [RTCPeerConnection represents a WebRTC connection between the local computer and a remote peer]
 3.Function to handle the click event to start the video/audio functionality of the room
@@ -60,17 +60,17 @@ Node.js , React.js , Express.js , Socket.io
 20.Function to add the functionality - copy text 
 21.Function to handle the click event - to join the room
 
-#-server -> app.js
+# server -> app.js
 -> Routes and Middleware
 
-#-server -> app.js
+# server -> app.js
 1.Initialise socket
 2.Function to handle the cross site scription attacks
 
-#-server -> bin -> www
+# server -> bin -> www
 1.Get port from environment and store in Express.
 2.Create HTTP server.
 3.Listen on provided port, on all network interfaces.
 
 
-#Screenshots :
+# Screenshots :
