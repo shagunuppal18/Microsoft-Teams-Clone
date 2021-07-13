@@ -1,5 +1,8 @@
 # Microsoft Team Clone
 
+# Agile Mthodology 
+https://www.canva.com/design/DAEkBWXw4BQ/G-zdjJgYr08On-_e7CCiJA/view?utm_content=DAEkBWXw4BQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+
 # Technologies Used:
 Node.js , React.js , Express.js , Socket.io
 
